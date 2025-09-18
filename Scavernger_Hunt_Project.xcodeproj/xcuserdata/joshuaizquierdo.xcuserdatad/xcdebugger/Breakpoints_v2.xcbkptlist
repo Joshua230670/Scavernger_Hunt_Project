@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D64ED7A8-19A5-4EFA-B75A-78D999ED5642"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB0A9855-8F1C-487C-908F-D00423ADDC5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../Library/Developer/Xcode/DerivedData/Scavernger_Hunt_Project-cefgpigfnftcesgfxvsozkdhkamc/Build/Intermediates.noindex/Scavernger_Hunt_Project.build/Debug-iphonesimulator/Scavernger_Hunt_Project.build/Objects-normal/arm64/Scavernger_Hunt_Project-Swift.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
